@@ -1,4 +1,4 @@
-# Paper to Podcast 🎧  
+# Paper to Podcast
 Convert research papers into structured audio podcasts with glossary generation
 
 Transform academic papers into engaging audio content using:
@@ -32,6 +32,3 @@ Transform academic papers into engaging audio content using:
 | Networking | Requests |
 
 ---
-
-git clone https://github.com/<your-username>/paper-to-podcast.git
-cd paper-to-podcast
