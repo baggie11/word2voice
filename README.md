@@ -67,6 +67,7 @@ It extracts text from PDFs, converts them into podcast-style narration, and gene
 # Clone the repository
 git clone https://github.com/your-username/paper-to-podcast.git
 cd paper-to-podcast
+pip install -r requirements.txt
 streamlit run app.py
 ```
 ## License
@@ -87,5 +88,3 @@ No additional restrictions — you may not apply legal terms or technological me
 © 2025 Bagavati Narayanan. All rights reserved.
 
 
-# Install dependencies
-pip install -r requirements.txt
