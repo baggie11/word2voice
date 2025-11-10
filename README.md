@@ -70,6 +70,8 @@ cd paper-to-podcast
 pip install -r requirements.txt
 streamlit run app.py
 ```
+---
+
 ## License
 
 This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** License.
